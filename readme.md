@@ -131,8 +131,3 @@ Here are some examples of the insights you can obtain using WhatsApp Chat Analyz
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
 
-## Contact
-
-For any questions or inquiries, feel free to reach out to me at:
-
-- Linkedin: [Abhishek Gupta](https://www.linkedin.com/in/codeabhi/)
